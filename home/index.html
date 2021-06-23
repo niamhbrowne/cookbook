@@ -8,9 +8,9 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
         integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="javascript" href="../js/script.js">
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="javascript" href="js/script.js">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
         integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous" />
     <title>Document</title>
@@ -27,7 +27,7 @@
 
     <!----------------------Nav Bar from bootstrap-->
     <nav class="sticky-top navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="home/index.html">Home</a>
+        <a class="navbar-brand" href="../home/index.html">Home</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
             aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -40,10 +40,10 @@
                         Cuisine
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <a class="dropdown-item" href="cuisine/american.html">American</a>
-                        <a class="dropdown-item" href="cuisine/chinese.html">Chinese</a>
-                        <a class="dropdown-item" href="cuisine/italian.html">Italian</a>
-                        <a class="dropdown-item" href="cuisine/mexican.html">Mexican</a>
+                        <a class="dropdown-item" href="../cuisine/american.html">American</a>
+                        <a class="dropdown-item" href="../cuisine/chinese.html">Chinese</a>
+                        <a class="dropdown-item" href="../cuisine/italian.html">Italian</a>
+                        <a class="dropdown-item" href="../cuisine/mexican.html">Mexican</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -52,12 +52,12 @@
                         Occasion
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <a class="dropdown-item" href="occasion/christmas.html">Christmas</a>
-                        <a class="dropdown-item" href="occasion/easter.html">Easter</a>
+                        <a class="dropdown-item" href="../occasion/christmas.html">Christmas</a>
+                        <a class="dropdown-item" href="../occasion/easter.html">Easter</a>
                     </div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="add/add.html">Add your own</a>
+                    <a class="nav-link" href="../add/add.html">Add your own</a>
                 </li>
 
             </ul>
@@ -67,18 +67,20 @@
 
     <!----------------------Google Maps-->
     <div id="map"></div>
-    
+
     <!-----------------------------------------------------Footer-->
     <footer>
         <!----------------------Social media links-->
-        <div>
-            <p>Follow us on social media for more food inspiration!</p>
-            <ul>
-                <li><a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                <li><a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                <li><a href="https://twitter.com/?lang=en-gb"><i class="fab fa-twitter"></i></a></li>
-                <li><a href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a></li>
-            </ul>
+        <div class="social">
+            
+                <p>Follow us on social media for more food inspiration!</p>
+                <ul>
+                    <li class="footer"><a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                    <li class="footer"><a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                    <li class="footer"><a href="https://twitter.com/?lang=en-gb"><i class="fab fa-twitter"></i></a></li>
+                    <li class="footer"><a href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a></li>
+                </ul>
+            
         </div>
     </footer>
 
@@ -87,12 +89,12 @@
         images
         for retail purposes. est 2021.
     </p>
-<!-----------------------API for maps-->
-<script src="https://unpkg.com/@googlemaps/markerclustererplus/dist/index.min.js"></script>
+    <!-----------------------API for maps-->
+    <script src="https://unpkg.com/@googlemaps/markerclustererplus/dist/index.min.js"></script>
     <script
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDzy44P8RO-L2fSDnOvLpc15dOFl06CNtI&callback=initMap&libraries=&v=weekly"
         async></script>
-    <script src="js/script.js"></script>
+    <script src="../js/script.js"></script>
 </body>
 
 </html>
