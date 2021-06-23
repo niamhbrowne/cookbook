@@ -15,6 +15,7 @@
 
 ## Testing 
 ### Bugs Discovered 
+* Due to my templates being in folders of their own, I had to move back a level to get back to the root folder in order to get the href links to connect.
 
 ## Deployment 
 ### How to run this project locally
