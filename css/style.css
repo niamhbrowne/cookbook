@@ -1,10 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+/*-----------------------Home Page Title*/
+.homeTitle {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 7px;
+    color: #5c5c6a;
+}
 
 /*----------------------Footer/ social media*/
 .social {
     padding-top: 20px;
     padding-bottom: 20px;
     text-decoration: none;
-    background-color: #E5C4D1;
+    background-color: #f1efff;
     display: flex;
     margin: auto;
     
@@ -13,17 +24,17 @@
     color: #9C99A3;
     text-align: center;
     list-style: none;
-    background-color: #E5C4D1;
+    background-color: #f1efff;
     margin: auto;
 }
 
 .social p {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     text-align: center;
     font-size: 200%;
     letter-spacing: 4px;
-    background-color: #E5C4D1;
+    background-color: #f1efff;
     color: #586271;
     margin: auto;
 }
@@ -39,6 +50,6 @@
 div#map {min-height: 360px;}
 
 #map {
-    padding-top: 30px;
+    padding-top: 50px;
     padding-bottom: 30px;
 }
