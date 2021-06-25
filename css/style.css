@@ -10,6 +10,23 @@
     color: #5c5c6a;
 }
 
+/*---------------------------Thumnail */
+.thumbnail h4 {
+font-family: 'Oswald', sans-serif;
+text-align: center;
+letter-spacing: 3px;
+color: #5c5c6a;
+}
+
+.readMore {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    letter-spacing: 3px;
+    color: #4a4a88;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
 /*----------------------Footer/ social media*/
 .social {
     padding-top: 20px;
