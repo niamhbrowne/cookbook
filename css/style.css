@@ -94,7 +94,7 @@ div#map {min-height: 360px;}
 
 .description h2{
     font-family: 'Oswald', sans-serif;
-    color: #586271;
+    color: #23232a;
     padding-left: 20px;
     padding-right: 20px;
     font-size: 200%;
@@ -103,8 +103,24 @@ div#map {min-height: 360px;}
 }
 .description p {
     font-family: 'Oswald', sans-serif;
-    color: #586271;
+    color: #2a2a33;
     padding-left: 23px;
     padding-right: 23px;
+    letter-spacing: 2px;
+}
+
+.description ol {
+    font-family: 'Oswald', sans-serif;
+    color: #2a2a33;
+    padding-left: 30px;
+    padding-right: 30px;
+    letter-spacing: 2px;
+}
+
+.description ul {
+    font-family: 'Oswald', sans-serif;
+    color: #2a2a33;
+    padding-left: 30px;
+    padding-right: 30px;
     letter-spacing: 2px;
 }
