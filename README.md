@@ -54,6 +54,7 @@ I chose a simplistic webpage design as I don't want to over complicate it.  I wa
 ## Technologies Used
 
 ## Testing 
+I used HTML, CSS and Javascript validators to test the coding aspect of my project and they passed for both. As for the visual aspect of the project I tested it through opening it on a web page browser and clicking on all the links in the navigation menu and reading through each section. I also inspected the code on the browser and looked at it on the IPad Pro and mobile phone devices to make sure it was working on all screen sizes. I clicked through all the links on the navigation bar to ensure there were no broken links and that external links opened on a new tab. I used the contact form to ensure it was working and also moved the google maps around to make sure it was working as well.
 ### Bugs Discovered 
 * Due to my templates being in folders of their own, I had to move back a level to get back to the root folder in order to get the href links to connect.
 * On the home page the headings for the thumbnails were displaying at different levels on the page. To solve this bug I added breaks (< br >) at the end of the headings so they'd all be on the same level.
