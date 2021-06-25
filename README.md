@@ -65,7 +65,21 @@ I used HTML, CSS and Javascript validators to test the coding aspect of my proje
 * On the home page the headings for the thumbnails were displaying at different levels on the page. To solve this bug I added breaks (< br >) at the end of the headings so they'd all be on the same level.
 
 ## Deployment 
-### How to run this project locally
+I used Gitpod to code the web page and then pushed it to Github. I used clear, descriptive and short commit messages throughout the project to show clearly each step of the project. I used the preview on Gitpod and open browser to see the design during the process of coding. Once finished coding I tested the web page by opening the web page on a browser to make sure all changes were saved and working properly.
+
+### Gitpod
+Steps I used on Gitpod to deploy my webpage:
+
+* I used clear and concise commits throughout the development of the webpage
+* I used git add to save the files
+* I used Git push to push the code to Github
+
+### Github
+Steps I used on Github to deploy my webpage:
+
+* I created a Github repository for the project
+* Once the repository was created I used gitpod to develop it
+* I went into the settings and at the github page section I changed the Branch from none to main to get the live link for the webpage
 
 ## Credits
 ### Content
