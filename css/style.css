@@ -124,3 +124,12 @@ div#map {min-height: 360px;}
     padding-right: 30px;
     letter-spacing: 2px;
 }
+
+/*--------------------------Add your own recipe form*/
+
+.form {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
