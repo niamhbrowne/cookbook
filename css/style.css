@@ -8,6 +8,7 @@
     font-family: 'Oswald', sans-serif;
     letter-spacing: 7px;
     color: #5c5c6a;
+    background-color: #f8f7ff;
 }
 
 /*---------------------------Thumnail */
@@ -49,7 +50,7 @@ color: #5c5c6a;
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     text-align: center;
-    font-size: 200%;
+    font-size: 100%;
     letter-spacing: 4px;
     background-color: #f1efff;
     color: #586271;
@@ -62,7 +63,14 @@ color: #5c5c6a;
     float: inherit;
 }
 
-
+/*----------------------------------------Legal <p> at bottom of every page*/
+.legal {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    letter-spacing: 3px;
+    color: #9C99A3;
+    font-size: 50%;
+}
 /*---------------------Google Maps*/
 div#map {min-height: 360px;}
 
