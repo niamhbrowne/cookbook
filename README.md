@@ -27,11 +27,30 @@
 I chose a simplistic webpage design as I don't want to over complicate it.  I want users to easily find their way through the webpage and therefore have chosen to use a simple navbar with dropdown links to help users choose what they want to see quickly and easily. I want to add loads of images to keep users interested in the page.  I am going to use google maps as well to create user interactivity.  I will have a form on the last link on the navbar which users can add their own recipes. I am going to create an interactive webpage that users can easily understand and use.
 ### Wireframes
 <li><a href="#" target="_blank">Home/Index</a></li>
+<li><a href="#" target="_blank">Recipe pages/Thumbnail links</a></li>
+<li><a href="#" target="_blank">Cuisine/American</a></li>
+<li><a href="#" target="_blank">Cuisine/Chinese</a></li>
+<li><a href="#" target="_blank">Cuisine/Italian</a></li>
+<li><a href="#" target="_blank">Cuisine/Mexican</a></li>
+<li><a href="#" target="_blank">Occasion/Christmas</a></li>
+<li><a href="#" target="_blank">Occasion/Easter</a></li>
+<li><a href="#" target="_blank">Add your own recipe</a></li>
 
 ## Features
 ### Existing Features 
+* Navbar with dropdown links
+* Google maps with clusters
+* Form to submit recipes
+* Multiple carousels displaying images of food 
+* Links to social media accounts
+* Links to pages showing recipes, ingredients and instructions on how to prepare and cook dishes
+* Stand out headings and titles
 ### Features Left to Implement 
-
+* A chatbot for users to ask questions
+* A place on the webpage where users can insert their own images
+* A page that users uploads will upload automatically
+* Usernames and password for users so they can save recipes to their accounts to the next time they want to use it they can find it easily
+* A search bar in the navbar to users can type in what they want to find 
 ## Technologies Used
 
 ## Testing 
