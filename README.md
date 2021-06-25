@@ -1,5 +1,5 @@
 # MS3 Project - Cookbook 
-<a href="" target="_blank">Live link</a>
+<a href="https://niamhbrowne.github.io/cookbook/" target="_blank">Live link</a>
 
 ## UX
 ### Project Goals
@@ -87,18 +87,18 @@ Steps I used on Github to deploy my webpage:
 ### Content
 I got all my recipes from Gousto Cookbook. Gousto Cookbook is all public and therefore not illegal to use for the purpose of my project. I used their images and images from Allrecipes as well to create the thumbnails and images on the carousels. 
 ### Media
-1. Google Images
-2. Allrecipes
-3. Gousto Cookbook
-4. Rexy Jacks
+1. <a href="https://www.google.co.uk/imghp?hl=en&authuser=0&ogbl" target="_blank">Google Images</a>
+2. <a href="http://allrecipes.co.uk/" target="_blank">Allrecipes</a>
+3. <a href="https://www.gousto.co.uk/cookbook/" target="_blank">Gousto Cookbook</a>
+4. <a href="https://www.rexyjacks.com/" target="_blank">Rexy Jacks</a>
 ### Code
-1. Code Institute
-2. Bootstrap
-3. W3Schools
-4. Goggle Maps Doc
+1. <a href="https://codeinstitute.net/" target="_blank">Code Institute</a>
+2. <a href="https://getbootstrap.com/docs/4.5/getting-started/introduction/" target="_blank">Bootstrap</a>
+3. <a href="https://www.w3schools.com/" target="_blank">W3Schools</a>
+4. <a href="https://developers.google.com/maps/documentation/javascript/overview" target="_blank">Goggle Maps Doc</a>
 ### Acknowledgements
 Below are a list of webpages I found inspiration from for the layout of my page and also where the recipes came from.
-1. allrecipes
-2. Gousto Cookbook
-3. 
+1. <a href="http://allrecipes.co.uk/" target="_blank">allrecipes</a>
+2. <a href="https://www.gousto.co.uk/cookbook/" target="_blank">Gousto Cookbook</a>
+
 
