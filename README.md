@@ -52,7 +52,12 @@ I chose a simplistic webpage design as I don't want to over complicate it.  I wa
 * Usernames and password for users so they can save recipes to their accounts to the next time they want to use it they can find it easily
 * A search bar in the navbar to users can type in what they want to find 
 ## Technologies Used
+For my third milestone project I used a number of technologies to assist in developing my website which I have listed below.
 
+* I used Bootstrap throughout the project to create, the navbar, carousels and the form for users to submit their own recipes
+* I used Google Maps to create a map on the main pages to show visiting users where the food from the recipes originated from
+* I used the google search engine to help me solve problems with my code, find inspiration for the design on the website through looking at other online cookbook sites and to find out how to code certain aspects as well.
+* I used the online tutorials as well to help find greater understanding for how the code works and how to impliment it as best as possible.
 ## Testing 
 I used HTML, CSS and Javascript validators to test the coding aspect of my project and they passed for both. As for the visual aspect of the project I tested it through opening it on a web page browser and clicking on all the links in the navigation menu and reading through each section. I also inspected the code on the browser and looked at it on the IPad Pro and mobile phone devices to make sure it was working on all screen sizes. I clicked through all the links on the navigation bar to ensure there were no broken links and that external links opened on a new tab. I used the contact form to ensure it was working and also moved the google maps around to make sure it was working as well.
 ### Bugs Discovered 
@@ -64,6 +69,20 @@ I used HTML, CSS and Javascript validators to test the coding aspect of my proje
 
 ## Credits
 ### Content
+I got all my recipes from Gousto Cookbook. Gousto Cookbook is all public and therefore not illegal to use for the purpose of my project. I used their images and images from Allrecipes as well to create the thumbnails and images on the carousels. 
 ### Media
+1. Google Images
+2. Allrecipes
+3. Gousto Cookbook
+4. Rexy Jacks
 ### Code
+1. Code Institute
+2. Bootstrap
+3. W3Schools
+4. Goggle Maps Doc
 ### Acknowledgements
+Below are a list of webpages I found inspiration from for the layout of my page and also where the recipes came from.
+1. allrecipes
+2. Gousto Cookbook
+3. 
+
