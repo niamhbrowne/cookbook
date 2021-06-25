@@ -26,7 +26,8 @@
 ### Design Choices 
 I chose a simplistic webpage design as I don't want to over complicate it.  I want users to easily find their way through the webpage and therefore have chosen to use a simple navbar with dropdown links to help users choose what they want to see quickly and easily. I want to add loads of images to keep users interested in the page.  I am going to use google maps as well to create user interactivity.  I will have a form on the last link on the navbar which users can add their own recipes. I am going to create an interactive webpage that users can easily understand and use.
 ### Wireframes
-<link href="#">Home/Index</link>
+<li><a href="#" target="_blank">Home/Index</a></li>
+
 ## Features
 ### Existing Features 
 ### Features Left to Implement 
